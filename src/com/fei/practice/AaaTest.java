@@ -1,6 +1,4 @@
-package Test;
-
-import java.io.*;
+package com.fei.practice;
 
 public class AaaTest {
     public static void main(String[] args) throws Exception {

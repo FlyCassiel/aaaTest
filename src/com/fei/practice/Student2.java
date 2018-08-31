@@ -1,4 +1,4 @@
-package Test;
+package com.fei.practice;
 
 public class Student2 implements Cloneable{
     private String name;

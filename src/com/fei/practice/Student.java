@@ -1,4 +1,4 @@
-package Test;
+package com.fei.practice;
 
 /**
  * 构建器

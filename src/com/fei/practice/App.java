@@ -1,4 +1,4 @@
-package Test;
+package com.fei.practice;
 
 /**
  * Lambda例子

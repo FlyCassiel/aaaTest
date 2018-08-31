@@ -1,4 +1,4 @@
-package Test.Enum;
+package com.fei.practice.enumtest;
 
 /**
  * 枚举单例

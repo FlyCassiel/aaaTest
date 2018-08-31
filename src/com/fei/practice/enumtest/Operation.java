@@ -1,4 +1,4 @@
-package Test.Enum;
+package com.fei.practice.enumtest;
 
 public enum Operation{
     PLUS{

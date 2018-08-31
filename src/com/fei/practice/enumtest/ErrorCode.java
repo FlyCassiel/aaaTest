@@ -1,4 +1,4 @@
-package Test.Enum;
+package com.fei.practice.enumtest;
 
 /**
  * 枚举类型错误码

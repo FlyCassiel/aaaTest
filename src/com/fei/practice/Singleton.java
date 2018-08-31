@@ -1,4 +1,4 @@
-package Test;
+package com.fei.practice;
 
 import java.io.Serializable;
 
